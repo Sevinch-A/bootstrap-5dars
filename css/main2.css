@@ -1,0 +1,13 @@
+.a{
+    background: linear-gradient(rgb(229, 120, 160) purple);
+    background-color: rgb(213, 21, 168);
+}
+.b{
+    margin-left: 75px;
+}
+.c{
+    margin-left: 60px;
+}
+.list-group{
+    text-align: center;
+}
